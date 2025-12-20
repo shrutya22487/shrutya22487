@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Shrutya and I'm a Junior at [Indraprastha Institute of Information Technology, Delhi](https://iiitd.ac.in/), pursuing B.Tech in CSE.<br><br>🤖 My areas of interest include Operating Systems, Web Development, DSA and Competitive Programming.<br><br>💻 I like to learn about new technologies and stay updated with the latest advancements in the industry.</p>
+<p align="left">Hi 👋! My name is Shrutya and I'm a Senior at [Indraprastha Institute of Information Technology, Delhi](https://iiitd.ac.in/), pursuing B.Tech in CSE.<br><br>🤖 My areas of interest include Operating Systems, Web Development, DSA and Competitive Programming.<br><br>💻 I like to learn about new technologies and stay updated with the latest advancements in the industry.</p>
 
 ###
 
